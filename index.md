@@ -2,7 +2,7 @@
 
 I am a computer engineering student at CSUF and I like motorcycles
 
-# Favorite CSPSC 120L Labs
+# Favorite CPSC 120L Labs
 Lab 6, part 1
 Lab 6 was the first lab that incorporated vectors, which was a fun tool to make a sandwich. It was pretty hard to wrap my mind around that 0 equals 1 but in the end. I got used to it and was able to make a sandwich with all sorts of proteins breads, and condiments.
 
